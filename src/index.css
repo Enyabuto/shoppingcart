@@ -12,7 +12,6 @@ input,
 select,
 textarea {
   font-size: 1.6rem;
-  font-family: Helvetica, Arial, sans-serif;
 }
 .grid-container {
   display: grid;
